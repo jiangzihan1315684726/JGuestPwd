@@ -1,0 +1,6 @@
+framework module Pods_JGuestPwdTests {
+  umbrella header "Pods-JGuestPwdTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
